@@ -1,0 +1,10 @@
+Package: floridacrime
+Type: Package
+Title: Predicts Crime Rates in Florida
+Version: 0.1.0
+Author: Jonathan Whiteside
+Maintainer: Jonathan Whiteside <jwhiteside1@mail.usf.edu>
+Description: Predicts the trend of crime rates in Florida.
+License: GPL-2
+Imports: quatmod,stats,xts
+Suggets: knitr
